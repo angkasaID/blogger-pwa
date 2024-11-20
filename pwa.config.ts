@@ -3,9 +3,9 @@ import type { Config } from './types';
 export default {
   version: '1.0',
   id: '/',
-  name: 'My Blog',
-  shortName: 'My Blog',
-  description: 'My blog description goes here...',
+  name: 'Finale Apparel',
+  shortName: 'Finale',
+  description: 'All your need for design apparel',
   direction: 'auto',
   language: 'en-US',
   backgroundColor: '#fff',
